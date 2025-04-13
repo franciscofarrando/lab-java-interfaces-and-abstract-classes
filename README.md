@@ -1,0 +1,2 @@
+Un IntArrayList será más eficiente cuando esperamos pocos numeros a agregar, ya que irá aumentando de un 50%
+En cambio, IntVector irá aumentando al 100% lo que si necesitamos agregar de muchos numero está bien, pero hay que tener cuidado con el consumo de recursos.
