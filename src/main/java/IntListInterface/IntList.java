@@ -1,5 +1,6 @@
 package IntListInterface;
 
 public interface IntList {
-    //comentario
+    void add(int number);
+    int get(int id);
 }
